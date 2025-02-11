@@ -1,0 +1,9 @@
+youtube-transcript-api
+langchain-community
+langchain
+faiss-cpu
+sentence-transformers
+transformers
+langchain-google-genai
+googletrans
+google-cloud-speech
