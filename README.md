@@ -29,3 +29,9 @@ By using **Retrieval-Augmented Generation (RAG)**, the app extracts video transc
 - Environment: Create a .env file and add MY_API_KEY=your_api_here.
 - Install: pip install -r requirements.txt
 - Launch: python app.py
+
+
+## Next steps
+- Transcript dependency
+- Rebuilds FAISS every question
+- Relevancy score, Strict prompt
